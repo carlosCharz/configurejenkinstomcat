@@ -42,3 +42,7 @@ which git
 whereis git
 ```
 output: /usr/bin/git
+
+## Jenkins web configuration
+1. **Installation - Java:**
+![Java](http://corporacionkristalia.com/jenkins-sources/1-install-java.png)
