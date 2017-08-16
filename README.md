@@ -1,4 +1,4 @@
-# Configure jenkins 2.x with tomcat 8.x in AWS (Amazon Linux AMI)
+# Configure jenkins 2.x with tomcat 8.x in AWS (Amazon Linux AMI) to deploy a WAR
 The objective is to create a Jenkins job to automatically deploy a built war file to a Tomcat instance. This project basically covers the configuration of Jenkins.
 
 
