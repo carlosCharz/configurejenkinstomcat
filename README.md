@@ -57,36 +57,36 @@ output: /usr/bin/git
 
 ## Jenkins Web Configuration Steps
 **1. Installation - Java**
-![Java](http://corporacionkristalia.com/jenkins-sources/1-install-java.png)
+![Java](http://wedevol.com/configurejenkinstomcat/1-install-java.png)
 
 
 **2. Installation - Git**
-![Git](http://corporacionkristalia.com/jenkins-sources/2-install-git.png)
+![Git](http://wedevol.com/configurejenkinstomcat/2-install-git.png)
 
 
 **3. Installation - Maven**
-![Maven](http://corporacionkristalia.com/jenkins-sources/3-install-maven.png)
+![Maven](http://wedevol.com/configurejenkinstomcat/3-install-maven.png)
 
 
 **4. Job Configuration - Project Type**
-![Project Type](http://corporacionkristalia.com/jenkins-sources/4-project.png)
+![Project Type](http://wedevol.com/configurejenkinstomcat/4-project.png)
 
 
 **5. Job Configuration - General Data**
-![General Data](http://corporacionkristalia.com/jenkins-sources/5-general-data.png)
+![General Data](http://wedevol.com/configurejenkinstomcat/5-general-data.png)
 
 
 **6. Job Configuration - Source Code**
-![Source Code](http://corporacionkristalia.com/jenkins-sources/6-source-code.png)
+![Source Code](http://wedevol.com/configurejenkinstomcat/6-source-code.png)
 
 
 **7. Build Configuration - Delete Workspace**
-![Delete Workspace](http://corporacionkristalia.com/jenkins-sources/7-build-delete.png)
+![Delete Workspace](http://wedevol.com/configurejenkinstomcat/7-build-delete.png)
 
 
 **8. Build Configuration - Maven Goals**
-![Maven Goals](http://corporacionkristalia.com/jenkins-sources/8-build-maven.png)
+![Maven Goals](http://wedevol.com/configurejenkinstomcat/8-build-maven.png)
 
 
 **9. Post Build Configuration - Deploy WAR & Delete Workspace**
-![Deploy WAR](http://corporacionkristalia.com/jenkins-sources/9-build-deploy.png)
+![Deploy WAR](http://wedevol.com/configurejenkinstomcat/9-build-deploy.png)
